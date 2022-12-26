@@ -1,6 +1,8 @@
+---
 layout: post
 title:  Touch typing on a gamepad
 date:   2020-07-07
+---
 
 ## Introduction
 
