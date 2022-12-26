@@ -4,8 +4,6 @@ title:  Touch typing on a gamepad
 date:   2020-07-07
 ---
 
-## Introduction
-
 Typing on a keyboard requires a fixed sitting or standing position.
 Gamepads, on the other hand, are handheld and compact. You can walk
 around the room or lie on the couch while using them.
