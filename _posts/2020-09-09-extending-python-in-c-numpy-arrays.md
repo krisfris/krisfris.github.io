@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extending Python in C: Modifying NumPy arrays in place
+title: "Extending Python in C: Modifying NumPy arrays in place"
 date: 2020-09-09
 ---
 
